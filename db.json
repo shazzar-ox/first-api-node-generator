@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "mike",
+    "sex": "female",
+    "mail": "mdnmdn@g.com",
+    "phone": "34445"
+  },
+  {
+    "id": 2,
+    "name": "phy",
+    "sex": "femalle",
+    "mail": "admin@mailjdjd.com",
+    "phone": "34442383278937635"
+  },
+  {
+    "id": 3,
+    "name": "mayowa",
+    "sex": "male",
+    "mail": "admin@mail.com",
+    "phone": "34442335"
+  },
+  {
+    "id": 6,
+    "name": "philip",
+    "sex": "male",
+    "mail": "admin@mail.com",
+    "phone": "34442335"
+  },
+  {
+    "id": 7,
+    "name": "philip",
+    "sex": "male",
+    "mail": "admin@mail.com",
+    "phone": "34442335"
+  }
+]
